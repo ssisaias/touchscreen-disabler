@@ -19,7 +19,7 @@ Run xinput and get the touchscreen device name or Id
 ```
 $ xinput
 ⎡ Virtual core pointer                     id=2    [master pointer  (3)]
-⎜   ↳ ABCD1234:00 00A0:1234                id=11	[slave  pointer  (2)]
+⎜   ↳ ABCD1234:00 00A0:1234                id=11   [slave  pointer  (2)]
 ```
 
 
