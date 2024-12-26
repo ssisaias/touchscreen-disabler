@@ -9,15 +9,9 @@ Download the latest-version of the binary from the [releases](https://github.com
 Or build it from source:
 
 ```
-$ git clone https://github.com/matt-matt-matt/touchscreen-disabler.git
+$ git clone https://github.com/ssisaias/touchscreen-disabler.git
 $ cd touchscreen-disabler
 $ deno compile --allow-read --allow-run --allow-env --output=target/touchscreen-disabler main.ts
-```
-
-optionally, for windows, add the icon:
-
-```
-$ deno compile --allow-read --allow-run --allow-env --output=target/touchscreen-disabler --icon=icon.ico main.ts
 ```
 
 ### Usage
